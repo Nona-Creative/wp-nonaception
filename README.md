@@ -22,4 +22,4 @@ A Plugin to quick install regularly used plugins
 
 ## Issues and Suggestions
 
-Please feel free to open an issue for suggestions and issues: [Open Issue](https://github.com/Nona-Creative/wp-nonaception/issues)
+Please feel free to open an issue for suggestions and issues: [View Open Issues](https://github.com/Nona-Creative/wp-nonaception/issues?q=is%3Aopen) | [Open New Issue](https://github.com/Nona-Creative/wp-nonaception/issues/new)
